@@ -20,3 +20,7 @@ if(temperatura<38 || virus=="resfrio"){
     console.log("Tenés coronavirus");
     console.log("aislamiento total");
 };
+
+
+console.log("Bueno definitivamente estamos en cuarentena hasta el 31/03");
+console.log("Tengás coronavirus o no tenés que aislarte igual muajaja");
