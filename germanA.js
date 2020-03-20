@@ -1,6 +1,7 @@
-let bandera = true;
-if(bandera){
+let bandera = Math.floor(Math.random() * 2) + 1;
+
+if(bandera==1){
     console.log("Este es el archivo A creado por German");
 }else{
-    console.log("También es el archivo A pero con bandera = false");
-}
+    console.log("Este archivo A fue modificado por Guille");
+};
