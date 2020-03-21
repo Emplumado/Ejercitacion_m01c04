@@ -29,8 +29,5 @@ console.log("Ministerio de Salud");
 console.log("Republica Argentina");
 console.log("Agregando una línea más por Germaaaan");
 
-<<<<<<< HEAD
 console.log("esta linea es para inducir el error");
-=======
 console.log("Agregando una última línea más por Germán (esta es la última definitivamente)");
->>>>>>> bdc86bac73e188d88da10d109bca95057797b745
