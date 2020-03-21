@@ -17,8 +17,8 @@ if(temperatura<38 || virus=="resfrio"){
     console.log("No tenés coronavirus");
     console.log("a casa");
 }else{
-    console.log("Tenés coronavirus");
-    console.log("aislamiento total");
+    console.log("ESTADO :" + "Tenés coronavirus");
+    console.log("RECOMENDACION: " + "aislamiento total");
 };
 
 
