@@ -25,5 +25,9 @@ if(temperatura<38 || virus=="resfrio"){
 console.log("Bueno definitivamente estamos en cuarentena hasta el 31/03");
 console.log("Tengás coronavirus o no tenés que aislarte igual muajaja");
 
+<<<<<<< HEAD
 console.log("Ministerio de Salud");
 console.log("Republica Argentina");
+=======
+console.log("Agregando una línea más por Germaaaan");
+>>>>>>> e7fc9d7f28bee99dee43f432121820f21c2505e6
